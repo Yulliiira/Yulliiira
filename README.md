@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Yulliiira/Yulliiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
 🔭 Currently studying: **API**, **WordPress**
 
 💼 Skills and tools I know:
