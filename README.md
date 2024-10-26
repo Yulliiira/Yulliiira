@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**Yulliiira/Yulliiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yulliiira/Yulliiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+🔭 Currently studying: **API**, **WordPress**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Skills and tools I know:
+- Postman
+- XML, JSON
+- PHP (OOP, PDO)
+- SQL, MySQL, phpMyAdmin
+- HTTP, HTML
+
+📫 How to reach me:
+- Telegram: [@your_telegram](https://t.me/yulliiira)
+
+🌱 Always open to new projects and challenges!
