@@ -10,6 +10,6 @@
 - HTTP, HTML
 
 📫 How to reach me:
-- Telegram: [@your_telegram](https://t.me/yulliiira)
+- Telegram: (https://t.me/yulliiira)
 
 🌱 Always open to new projects and challenges!
