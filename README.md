@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 Currently studying: **API**, **WordPress**, **Laravel**
+🔭 Currently studying: **WordPress**, **Laravel**
 
 💼 Skills and tools I know:
 - Postman
