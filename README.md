@@ -3,6 +3,7 @@
 🔭 Currently studying: **Laravel**
 
 💼 Skills and tools I know:
+- Docker
 - Postman
 - XML, JSON
 - PHP (OOP, PDO)
