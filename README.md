@@ -5,7 +5,7 @@
 💼 Skills and tools I know:
 - Docker
 - Postman
-- XML, JSON
+- XML, JSON, API
 - PHP (OOP, PDO)
 - SQL, MySQL, phpMyAdmin
 - HTTP, HTML
