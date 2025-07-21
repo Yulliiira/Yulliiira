@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-🔭 Currently studying: **Laravel**
+🔭 Currently studying: **Redis**
 
 💼 Skills and tools I know:
 - Docker
 - Postman
+- Laravel
 - XML, JSON, API
 - PHP (OOP, PDO)
 - SQL, MySQL, phpMyAdmin
